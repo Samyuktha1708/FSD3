@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+    <head>
+        <link rel="stylesheet" href="styles.css" />
+        <link href="https://fonts.googleapis.com/css2?family=Bangers&family=Black+Ops+One&family=Creepster&family=La+Belle+Aurore&family=MedievalSharp&family=Orbitron&family=Rye&display=swap" rel="stylesheet">
+        <script src="index.js"></script>
+    </head>
+    <body>
+        <!-- 
+        Challenge 1:
+        Write the HTML for your personal website.
+        -->
+        <h1> me about my friends </h1>
+   <img src="r5">
+   <h2> fun facts about friends </h2>
+   <h3> their routine actually </h3>
+   <button> wake up </button>
+   <button> phone checking </button>
+   <button> brush </button>
+   <button> bath </button>
+   <button> eat </button>
+   <button> sleep again</button>
+   <button> play games</button>
+   <table>
+       <tr>
+           <th>name</th>
+           <th>birthday</th>
+           <th>favourite food  </th>
+           <th>hoobies</th>
+       </tr>
+   </table>
+   <table>
+       <tr>
+                      <th>tej</th>
+           <th>19-09-2004</th>
+           <th>chicken 65 </th>
+           <th>music</th>
+       </tr>
+           </table>
+    </body>
+</html>
