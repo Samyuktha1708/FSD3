@@ -45,7 +45,7 @@
                     <th>Hobbie</th>
                 </tr>
                 <tr>
-                    <td>Neha</td>
+                    <td>kaushik</td>
                     <td>24-11-2003</td>
                     <td>Badminton</td>
                     <td>Chicken</td>
@@ -54,7 +54,7 @@
                     <td>Dancing</td>
                 </tr>
                 <tr>
-                    <td>Ananya</td>
+                    <td>Aarya</td>
                     <td>29-05-2004</td>
                     <td>Badminton</td>
                     <td>Dal and Pickle</td>
@@ -62,15 +62,7 @@
                     <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_9GQIjJIRe9rneBLTEJgmPsgs3I448OETRg&usqp=CAU" alt="Super Start"></td>
                     <td>Singing</td>
                 </tr>
-                <tr>
-                    <td>Lahari</td>
-                    <td>30-06-2005</td>
-                    <td>Badminton</td>
-                    <td>Chicken</td>
-                    <td>India</td>
-                    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7UNG4ELeyVAKuClOa5XJDSXs2DCa1hXlXqg&usqp=CAU" alt="Rebel Start"></td>
-                    <td>Watching Series</td>
-                </tr>
+            
             </table>
         </fieldset>
     </form>
