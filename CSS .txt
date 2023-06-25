@@ -1,57 +1,55 @@
-body, html {
+*{
     margin: 0;
-    padding: 10px;
-    background: var(--background);
-    color: var(--text);
-    font-family: var(--font);
+    padding: 0;
 }
-
-img {
+.background {
+    background-color: #A0C49D;
+    border: 5px solid #f90b9a;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 43%;
+    color: #263A29;
+}
+.center1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     width: 40%;
-    border-radius: calc(var(--image) * 2);
-    border: 4px solid var(--text);
+    height: 40%;
 }
-
-a {
-    color: var(--text);
+.center2 {
+    text-align: center;
+    font-size: 40px;
+    background: linear-gradient(to right,
+    violet,
+    indigo,
+    blue,
+    green,
+    yellow,
+    orange,
+    red);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
 }
-
-input {
+.color {
     display: block;
-    margin: 20px 0 0;
-    width: 160px;
-    box-sizing: border-box;
-    padding: 4px 8px;
-    border-width: 2px; 
-    border-style: solid;
-    border-color:  var(--text);
-    color: var(--text);
-    background: none;
-    border-radius: var(--image);
-    font-family: var(--font);
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;
+    background-color: #FAD3E7;
 }
-
-::placeholder {
-    color: var(--text);
+.color1 {
+    color: #213363;
+    background-color: #FAF0E4;
 }
-
-button {
-    border-radius: var(--image);
-    padding: 5px 10px;
-    border: none;
-    background: var(--text);
-    color: red;
-    font-weight: bold;
-    box-sizing: border-box;
+.color2 {
     display: block;
-    margin: 9px 0;
-    cursor: pointer;
-    font-family: var(--font);
-    width: 160px;
-}
-table th {
-    border : 2px solid black;
-}
-button{
-    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;
+    background-color: #E5D1FA;
 }
